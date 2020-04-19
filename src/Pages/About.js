@@ -1,5 +1,5 @@
-import React, { Component } from 'react';
-import { Container, Nav, Row, Col, Tab } from 'react-bootstrap';
+import React, { Component } from './node_modules/react';
+import { Container, Nav, Row, Col, Tab } from './node_modules/react-bootstrap';
 
 import about01 from '../assets/about01.jpg';
 import about02 from '../assets/about02.jpg';
